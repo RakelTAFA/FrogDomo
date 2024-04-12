@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/RakelTAFA/FrogDomo-API.git
+[submodule "esp32"]
+	path = esp32
+	url = https://github.com/RakelTAFA/FrogDomo-ESP32.git
+[submodule "android"]
+	path = android
+	url = https://github.com/RakelTAFA/FrogDomo-Android.git
