@@ -7,3 +7,4 @@
 [submodule "android"]
 	path = android
 	url = https://github.com/RakelTAFA/FrogDomo-Android.git
+	branch = develop
